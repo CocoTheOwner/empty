@@ -1,0 +1,8 @@
+{
+    "name": "Empty",
+    "fluidHeight": 0,
+    "regions": [
+        "empty"
+    ],
+    "bedrock": false
+}
