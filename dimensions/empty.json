@@ -4,5 +4,12 @@
     "regions": [
         "empty"
     ],
-    "bedrock": false
+    "bedrock": false,
+    "rockPalette": {
+        "palette": [
+            {
+                "block": "minecraft:air"
+            }
+        ]
+    }
 }
